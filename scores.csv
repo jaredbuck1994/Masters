@@ -1,8 +1,9 @@
 Player,Score
 Sam Burns,-4.0
 Patrick Reed,-4.0
-Kristoffer Reitan,-3.0
 Tommy Fleetwood,-3.0
+Kurt Kitayama,-2.0
+Kristoffer Reitan,-2.0
 Nick Taylor,-2.0
 Akshay Bhatia,-2.0
 Xander Schauffele,-2.0
@@ -10,7 +11,6 @@ Rory McIlroy,-2.0
 Fred Couples,-2.0
 Aaron Rai,-2.0
 Haotong Li,-1.0
-Kurt Kitayama,-1.0
 Jason Day,-1.0
 Shane Lowry,-1.0
 Brian Campbell,-1.0
@@ -23,7 +23,6 @@ Russell Henley,0.0
 Hideki Matsuyama,0.0
 Sam Stevens,0.0
 Andrew Novak,0.0
-Wyndham Clark,0.0
 Zach Johnson,0.0
 Michael Kim,0.0
 Nicolai Højgaard,0.0
@@ -31,27 +30,31 @@ Danny Willett,0.0
 Ethan Fang (a),0.0
 Brian Harman,0.0
 Daniel Berger,0.0
-Fifa Laopakdee (a),0.0
 Jacob Bridgeman,0.0
-Corey Conners,0.0
 Harry Hall,0.0
 Michael Brennan,0.0
 Tyrrell Hatton,0.0
+Ludvig Åberg,0.0
+Chris Gotterup,0.0
 Cameron Smith,1.0
-Jake Knapp,1.0
+Ryan Gerard,1.0
 Collin Morikawa,1.0
 Alex Noren,1.0
 Tom McKibbin,1.0
-Mateo Pulcini (a),1.0
+Wyndham Clark,1.0
 Adam Scott,1.0
 Min Woo Lee,1.0
+Fifa Laopakdee (a),1.0
+Corey Conners,1.0
 Maverick McNealy,1.0
 J.J. Spaun,1.0
+Jon Rahm,1.0
 José María Olazábal,2.0
-Ryan Gerard,2.0
+Jake Knapp,2.0
 Matt Fitzpatrick,2.0
 Patrick Cantlay,2.0
 Sungjae Im,2.0
+Mateo Pulcini (a),2.0
 Davis Riley,2.0
 Charl Schwartzel,3.0
 Keegan Bradley,3.0
@@ -75,9 +78,6 @@ Carlos Ortiz,8.0
 Sami Välimäki,8.0
 Naoyuki Kataoka,12.0
 Aldrich Potgieter,12.0
-Jon Rahm,
-Ludvig Åberg,
-Chris Gotterup,
 Justin Rose,
 Jordan Spieth,
 Brooks Koepka,

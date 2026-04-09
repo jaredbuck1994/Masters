@@ -1,14 +1,17 @@
 import json
 from pathlib import Path
-
+import datetime
 import pandas as pd
 import streamlit as st
+from update_scores import scrape_espn_scores
+
+@st.cache_data(ttl=300)
+def get_live_scores():
+    df = scrape_espn_scores()
+    return df, datetime.datetime.now()
 
 DRAFT_FILE = Path("draft_state.json")
-SCORES_FILE = Path("scores.csv")
-
-if st.button("Refresh scores"):
-    st.rerun()
+# SCORES_FILE = Path("scores.csv")
 
 def clean_display_value(x):
     if pd.isna(x):
@@ -18,12 +21,12 @@ def clean_display_value(x):
     return x
 
 
-def load_scores_file():
-    if SCORES_FILE.exists():
-        df = pd.read_csv(SCORES_FILE)
-        if "Player" in df.columns and "Score" in df.columns:
-            return df
-    return pd.DataFrame(columns=["Player", "Score"])
+# def load_scores_file():
+#     if SCORES_FILE.exists():
+#         df = pd.read_csv(SCORES_FILE)
+#         if "Player" in df.columns and "Score" in df.columns:
+#             return df
+#     return pd.DataFrame(columns=["Player", "Score"])
 
 
 def build_team_scores(picks, participants):
@@ -31,7 +34,7 @@ def build_team_scores(picks, participants):
         columns={"manager": "Manager", "player": "Player"}
     )
 
-    scores_df = load_scores_file()
+    scores_df, last_updated = get_live_scores()
 
     if scores_df.empty or "Player" not in scores_df.columns or "Score" not in scores_df.columns:
         scores_df = pd.DataFrame(columns=["Player", "Score"])
@@ -75,7 +78,7 @@ def roster_scores_display_df(picks, participants, rounds=6):
         columns={"manager": "Manager", "player": "Player"}
     )
 
-    scores_df = load_scores_file()
+    scores_df, last_updated = get_live_scores()
 
     if scores_df.empty or "Player" not in scores_df.columns or "Score" not in scores_df.columns:
         scores_df = pd.DataFrame(columns=["Player", "Score"])
@@ -144,13 +147,16 @@ st.title("Masters Pool Live Standings")
 
 c1, c2 = st.columns([1, 3])
 with c1:
-    if st.button("Refresh scores", use_container_width=True):
+    if st.button("Refresh scores"):
+        st.cache_data.clear()
         st.rerun()
 
 with c2:
-    if SCORES_FILE.exists():
-        last_updated = pd.Timestamp(SCORES_FILE.stat().st_mtime, unit="s")
-        st.caption(f"Scores last updated: {last_updated}")
+    try:
+        _, last_updated = get_live_scores()
+        st.caption(f"Scores last updated: {last_updated.strftime('%H:%M:%S')}")
+    except:
+        st.caption("Scores updating...")
 
 if not DRAFT_FILE.exists():
     st.error("draft_state.json not found.")

@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-
+from zoneinfo import ZoneInfo
 import pandas as pd
 import streamlit as st
 
@@ -148,7 +148,10 @@ with c1:
 with c2:
     if SCORES_FILE.exists():
         last_updated = pd.Timestamp(SCORES_FILE.stat().st_mtime, unit="s")
-        st.caption(f"Scores last updated: {last_updated}")
+        eastern_time = last_updated.astimezone(ZoneInfo("America/New_York"))
+        formatted_time = eastern_time.strftime("%Y-%m-%d %H:%M:%S")
+
+        st.caption(f"Scores last updated: {formatted_time} ET")
 
 if not DRAFT_FILE.exists():
     st.error("draft_state.json not found.")

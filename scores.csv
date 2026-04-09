@@ -1,6 +1,6 @@
 Player,Score
 Sam Burns,-5
-Rory McIlroy,-4
+Rory McIlroy,-5
 Kurt Kitayama,-3
 Jason Day,-3
 Patrick Reed,-3
@@ -19,6 +19,7 @@ Haotong Li,-1
 Nick Taylor,-1
 Xander Schauffele,-1
 Russell Henley,-1
+Corey Conners,-1
 Chris Gotterup,-1
 Jordan Spieth,-1
 Robert MacIntyre,-1
@@ -27,8 +28,6 @@ Matt McCarty,0
 Kristoffer Reitan,0
 Keegan Bradley,0
 Ryan Gerard,0
-Dustin Johnson,0
-Akshay Bhatia,0
 Matt Fitzpatrick,0
 Hideki Matsuyama,0
 Brian Campbell,0
@@ -41,19 +40,20 @@ Michael Brennan,0
 Brooks Koepka,0
 Harris English,0
 Jake Knapp,1
+Dustin Johnson,1
+Cameron Young,1
 Sam Stevens,1
 Michael Kim,1
 Daniel Berger,1
 Jacob Bridgeman,1
-Corey Conners,1
 Harry Hall,1
 Tyrrell Hatton,1
 Ben Griffin,1
 Si Woo Kim,1
 José María Olazábal,2
 Cameron Smith,2
+Akshay Bhatia,2
 Collin Morikawa,2
-Cameron Young,2
 Nicolai Højgaard,2
 Adam Scott,2
 J.J. Spaun,2
@@ -64,7 +64,6 @@ Brian Harman,3
 Min Woo Lee,3
 Maverick McNealy,3
 Jon Rahm,3
-Marco Penge,3
 Johnny Keefer,4
 Jackson Herrington (a),4
 Bubba Watson,4
@@ -73,17 +72,18 @@ Patrick Cantlay,4
 Sungjae Im,4
 Mateo Pulcini (a),4
 Fifa Laopakdee (a),4
+Marco Penge,4
 Rasmus Neergaard-Petersen,5
 Ryan Fox,5
 Casey Jarvis,5
 Alex Noren,5
 Rasmus Højgaard,6
+Mason Howell (a),6
 Mike Weir,6
 Ángel Cabrera,7
 Max Greyserman,7
 Vijay Singh,7
 Nico Echavarria,7
-Mason Howell (a),7
 Davis Riley,7
 Carlos Ortiz,8
 Sami Välimäki,8

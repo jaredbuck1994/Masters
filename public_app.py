@@ -7,6 +7,8 @@ import streamlit as st
 DRAFT_FILE = Path("draft_state.json")
 SCORES_FILE = Path("scores.csv")
 
+if st.button("Refresh scores"):
+    st.rerun()
 
 def clean_display_value(x):
     if pd.isna(x):

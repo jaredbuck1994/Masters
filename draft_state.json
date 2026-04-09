@@ -1,0 +1,1028 @@
+{
+  "participants": [
+    "Ben",
+    "Jared",
+    "Timmis",
+    "Ocho",
+    "Etienne",
+    "Caleb",
+    "Renee"
+  ],
+  "rounds": 6,
+  "players": [
+    {
+      "Player": "Scottie Scheffler",
+      "Rank": 1,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jon Rahm",
+      "Rank": 2,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Rory McIlroy",
+      "Rank": 3,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Bryson DeChambeau",
+      "Rank": 4,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Ludvig Aberg",
+      "Rank": 5,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Xander Schauffele",
+      "Rank": 6,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Cameron Young",
+      "Rank": 7,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Tommy Fleetwood",
+      "Rank": 8,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Matt Fitzpatrick",
+      "Rank": 9,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Collin Morikawa",
+      "Rank": 10,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Justin Rose",
+      "Rank": 11,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jordan Spieth",
+      "Rank": 12,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Brooks Koepka",
+      "Rank": 13,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Hideki Matsuyama",
+      "Rank": 14,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Robert MacIntyre",
+      "Rank": 15,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Russell Henley",
+      "Rank": 16,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Chris Gotterup",
+      "Rank": 17,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Patrick Reed",
+      "Rank": 18,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Viktor Hovland",
+      "Rank": 19,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Si Woo Kim",
+      "Rank": 20,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Min Woo Lee",
+      "Rank": 21,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Justin Thomas",
+      "Rank": 22,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Patrick Cantlay",
+      "Rank": 23,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Adam Scott",
+      "Rank": 24,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Akshay Bhatia",
+      "Rank": 25,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sepp Straka",
+      "Rank": 26,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Tyrrell Hatton",
+      "Rank": 27,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jason Day",
+      "Rank": 28,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jake Knapp",
+      "Rank": 29,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Shane Lowry",
+      "Rank": 30,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sam Burns",
+      "Rank": 31,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Corey Conners",
+      "Rank": 32,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Nicolai Hojgaard",
+      "Rank": 33,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "J.J. Spaun",
+      "Rank": 34,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Kurt Kitayama",
+      "Rank": 35,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jacob Bridgeman",
+      "Rank": 36,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Maverick McNealy",
+      "Rank": 37,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Matthew McCarty",
+      "Rank": 38,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Cameron Smith",
+      "Rank": 39,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Harris English",
+      "Rank": 40,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Ben Griffin",
+      "Rank": 41,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Daniel Berger",
+      "Rank": 42,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Gary Woodland",
+      "Rank": 43,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Max Homa",
+      "Rank": 44,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sungjae Im",
+      "Rank": 45,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Rasmus Hojgaard",
+      "Rank": 46,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Keegan Bradley",
+      "Rank": 47,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Marco Penge",
+      "Rank": 48,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Harry Hall",
+      "Rank": 49,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Alexander Noren",
+      "Rank": 50,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Ryan Gerard",
+      "Rank": 51,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Aaron Rai",
+      "Rank": 52,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Nick Taylor",
+      "Rank": 53,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Brian Harman",
+      "Rank": 54,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sam Stevens",
+      "Rank": 55,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Ryan Fox",
+      "Rank": 56,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Wyndham Clark",
+      "Rank": 57,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sergio Garcia",
+      "Rank": 58,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Max Greyserman",
+      "Rank": 59,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Dustin Johnson",
+      "Rank": 60,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Casey Jarvis",
+      "Rank": 61,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Carlos Ortiz",
+      "Rank": 62,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Hao-Tong Li",
+      "Rank": 63,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Tom McKibbin",
+      "Rank": 64,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Nicolas Echavarria",
+      "Rank": 65,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Kristoffer Reitan",
+      "Rank": 66,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Rasmus Neergaard-Petersen",
+      "Rank": 67,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "John Keefer",
+      "Rank": 68,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Michael Kim",
+      "Rank": 69,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Andrew Novak",
+      "Rank": 70,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Aldrich Potgieter",
+      "Rank": 71,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Michael Brennan",
+      "Rank": 72,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Sami Valimaki",
+      "Rank": 73,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Davis Riley",
+      "Rank": 74,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Bubba Watson",
+      "Rank": 75,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Charl Schwartzel",
+      "Rank": 76,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Zach Johnson",
+      "Rank": 77,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Brian Campbell",
+      "Rank": 78,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Ethan Fang",
+      "Rank": 79,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Danny Willett",
+      "Rank": 80,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Fifa Laopakdee",
+      "Rank": 81,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Mason Howell",
+      "Rank": 82,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jackson Herrington",
+      "Rank": 83,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Mateo Pulcini",
+      "Rank": 84,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Naoyuki Kataoka",
+      "Rank": 85,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Angel Cabrera",
+      "Rank": 86,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Vijay Singh",
+      "Rank": 87,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Brandon Holtz",
+      "Rank": 88,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Mike Weir",
+      "Rank": 89,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Fred Couples",
+      "Rank": 90,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    },
+    {
+      "Player": "Jose Maria Olazabal",
+      "Rank": 91,
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    }
+  ],
+  "scores": [],
+  "draft_order": [
+    {
+      "pick_no": 1,
+      "round": 1,
+      "manager": "Ben"
+    },
+    {
+      "pick_no": 2,
+      "round": 1,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 3,
+      "round": 1,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 4,
+      "round": 1,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 5,
+      "round": 1,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 6,
+      "round": 1,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 7,
+      "round": 1,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 8,
+      "round": 2,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 9,
+      "round": 2,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 10,
+      "round": 2,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 11,
+      "round": 2,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 12,
+      "round": 2,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 13,
+      "round": 2,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 14,
+      "round": 2,
+      "manager": "Ben"
+    },
+    {
+      "pick_no": 15,
+      "round": 3,
+      "manager": "Ben"
+    },
+    {
+      "pick_no": 16,
+      "round": 3,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 17,
+      "round": 3,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 18,
+      "round": 3,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 19,
+      "round": 3,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 20,
+      "round": 3,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 21,
+      "round": 3,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 22,
+      "round": 4,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 23,
+      "round": 4,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 24,
+      "round": 4,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 25,
+      "round": 4,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 26,
+      "round": 4,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 27,
+      "round": 4,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 28,
+      "round": 4,
+      "manager": "Ben"
+    },
+    {
+      "pick_no": 29,
+      "round": 5,
+      "manager": "Ben"
+    },
+    {
+      "pick_no": 30,
+      "round": 5,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 31,
+      "round": 5,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 32,
+      "round": 5,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 33,
+      "round": 5,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 34,
+      "round": 5,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 35,
+      "round": 5,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 36,
+      "round": 6,
+      "manager": "Renee"
+    },
+    {
+      "pick_no": 37,
+      "round": 6,
+      "manager": "Caleb"
+    },
+    {
+      "pick_no": 38,
+      "round": 6,
+      "manager": "Etienne"
+    },
+    {
+      "pick_no": 39,
+      "round": 6,
+      "manager": "Ocho"
+    },
+    {
+      "pick_no": 40,
+      "round": 6,
+      "manager": "Timmis"
+    },
+    {
+      "pick_no": 41,
+      "round": 6,
+      "manager": "Jared"
+    },
+    {
+      "pick_no": 42,
+      "round": 6,
+      "manager": "Ben"
+    }
+  ],
+  "picks": [
+    {
+      "pick_no": 1,
+      "round": 1,
+      "manager": "Ben",
+      "player": "Scottie Scheffler"
+    },
+    {
+      "pick_no": 2,
+      "round": 1,
+      "manager": "Jared",
+      "player": "Rory McIlroy"
+    },
+    {
+      "pick_no": 3,
+      "round": 1,
+      "manager": "Timmis",
+      "player": "Xander Schauffele"
+    },
+    {
+      "pick_no": 4,
+      "round": 1,
+      "manager": "Ocho",
+      "player": "Bryson DeChambeau"
+    },
+    {
+      "pick_no": 5,
+      "round": 1,
+      "manager": "Etienne",
+      "player": "Jon Rahm"
+    },
+    {
+      "pick_no": 6,
+      "round": 1,
+      "manager": "Caleb",
+      "player": "Collin Morikawa"
+    },
+    {
+      "pick_no": 7,
+      "round": 1,
+      "manager": "Renee",
+      "player": "Robert MacIntyre"
+    },
+    {
+      "pick_no": 8,
+      "round": 2,
+      "manager": "Renee",
+      "player": "Justin Rose"
+    },
+    {
+      "pick_no": 9,
+      "round": 2,
+      "manager": "Caleb",
+      "player": "Cameron Young"
+    },
+    {
+      "pick_no": 10,
+      "round": 2,
+      "manager": "Etienne",
+      "player": "Ludvig Aberg"
+    },
+    {
+      "pick_no": 11,
+      "round": 2,
+      "manager": "Ocho",
+      "player": "Hideki Matsuyama"
+    },
+    {
+      "pick_no": 12,
+      "round": 2,
+      "manager": "Timmis",
+      "player": "Tommy Fleetwood"
+    },
+    {
+      "pick_no": 13,
+      "round": 2,
+      "manager": "Jared",
+      "player": "Jordan Spieth"
+    },
+    {
+      "pick_no": 14,
+      "round": 2,
+      "manager": "Ben",
+      "player": "Patrick Reed"
+    },
+    {
+      "pick_no": 15,
+      "round": 3,
+      "manager": "Ben",
+      "player": "Matt Fitzpatrick"
+    },
+    {
+      "pick_no": 16,
+      "round": 3,
+      "manager": "Jared",
+      "player": "Viktor Hovland"
+    },
+    {
+      "pick_no": 17,
+      "round": 3,
+      "manager": "Timmis",
+      "player": "Chris Gotterup"
+    },
+    {
+      "pick_no": 18,
+      "round": 3,
+      "manager": "Ocho",
+      "player": "Min Woo Lee"
+    },
+    {
+      "pick_no": 19,
+      "round": 3,
+      "manager": "Etienne",
+      "player": "Brooks Koepka"
+    },
+    {
+      "pick_no": 20,
+      "round": 3,
+      "manager": "Caleb",
+      "player": "Si Woo Kim"
+    },
+    {
+      "pick_no": 21,
+      "round": 3,
+      "manager": "Renee",
+      "player": "Corey Conners"
+    },
+    {
+      "pick_no": 22,
+      "round": 4,
+      "manager": "Renee",
+      "player": "Jason Day"
+    },
+    {
+      "pick_no": 23,
+      "round": 4,
+      "manager": "Caleb",
+      "player": "Akshay Bhatia"
+    },
+    {
+      "pick_no": 24,
+      "round": 4,
+      "manager": "Etienne",
+      "player": "Justin Thomas"
+    },
+    {
+      "pick_no": 25,
+      "round": 4,
+      "manager": "Ocho",
+      "player": "Shane Lowry"
+    },
+    {
+      "pick_no": 26,
+      "round": 4,
+      "manager": "Timmis",
+      "player": "Nicolai Hojgaard"
+    },
+    {
+      "pick_no": 27,
+      "round": 4,
+      "manager": "Jared",
+      "player": "Sam Burns"
+    },
+    {
+      "pick_no": 28,
+      "round": 4,
+      "manager": "Ben",
+      "player": "Adam Scott"
+    },
+    {
+      "pick_no": 29,
+      "round": 5,
+      "manager": "Ben",
+      "player": "Tyrrell Hatton"
+    },
+    {
+      "pick_no": 30,
+      "round": 5,
+      "manager": "Jared",
+      "player": "Russell Henley"
+    },
+    {
+      "pick_no": 31,
+      "round": 5,
+      "manager": "Timmis",
+      "player": "Jake Knapp"
+    },
+    {
+      "pick_no": 32,
+      "round": 5,
+      "manager": "Ocho",
+      "player": "Sepp Straka"
+    },
+    {
+      "pick_no": 33,
+      "round": 5,
+      "manager": "Etienne",
+      "player": "Patrick Cantlay"
+    },
+    {
+      "pick_no": 34,
+      "round": 5,
+      "manager": "Caleb",
+      "player": "Kurt Kitayama"
+    },
+    {
+      "pick_no": 35,
+      "round": 5,
+      "manager": "Renee",
+      "player": "Cameron Smith"
+    },
+    {
+      "pick_no": 36,
+      "round": 6,
+      "manager": "Renee",
+      "player": "Jacob Bridgeman"
+    },
+    {
+      "pick_no": 37,
+      "round": 6,
+      "manager": "Caleb",
+      "player": "J.J. Spaun"
+    },
+    {
+      "pick_no": 38,
+      "round": 6,
+      "manager": "Etienne",
+      "player": "Maverick McNealy"
+    },
+    {
+      "pick_no": 39,
+      "round": 6,
+      "manager": "Ocho",
+      "player": "Sungjae Im"
+    },
+    {
+      "pick_no": 40,
+      "round": 6,
+      "manager": "Timmis",
+      "player": "Harris English"
+    },
+    {
+      "pick_no": 41,
+      "round": 6,
+      "manager": "Jared",
+      "player": "Max Homa"
+    },
+    {
+      "pick_no": 42,
+      "round": 6,
+      "manager": "Ben",
+      "player": "Gary Woodland"
+    }
+  ],
+  "draft_started": true
+}

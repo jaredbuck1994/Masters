@@ -1,22 +1,22 @@
 Player,Score
 Rory McIlroy,-7.0
 Justin Rose,-5.0
-Jason Day,-5.0
 Patrick Reed,-5.0
 Tyrrell Hatton,-4.0
 Wyndham Clark,-4.0
 Haotong Li,-4.0
+Kristoffer Reitan,-4.0
 Sam Burns,-4.0
+Jason Day,-4.0
 Tommy Fleetwood,-4.0
 Chris Gotterup,-3.0
 Brooks Koepka,-3.0
 Ben Griffin,-3.0
 Max Homa,-3.0
-Kristoffer Reitan,-3.0
 Shane Lowry,-3.0
 Xander Schauffele,-3.0
-Akshay Bhatia,-2.0
 Michael Brennan,-1.0
+Nick Taylor,-1.0
 Dustin Johnson,-1.0
 Hideki Matsuyama,-1.0
 Cameron Young,-1.0
@@ -25,8 +25,7 @@ Harris English,0.0
 Brian Campbell,0.0
 Scottie Scheffler,0.0
 Matt McCarty,0.0
-Kurt Kitayama,0.0
-Nick Taylor,0.0
+Akshay Bhatia,0.0
 Russell Henley,0.0
 Sungjae Im,1.0
 Marco Penge,1.0
@@ -34,6 +33,7 @@ Sepp Straka,1.0
 Jordan Spieth,1.0
 Aaron Rai,1.0
 Jacob Bridgeman,1.0
+Kurt Kitayama,1.0
 Ryan Gerard,1.0
 Matt Fitzpatrick,1.0
 Collin Morikawa,1.0
@@ -59,12 +59,12 @@ Harry Hall,5.0
 Danny Willett,5.0
 J.J. Spaun,5.0
 Ryan Fox,5.0
+Bubba Watson,5.0
 Cameron Smith,5.0
 Nicolai Højgaard,6.0
 Zach Johnson,6.0
 Rasmus Neergaard-Petersen,6.0
 Casey Jarvis,6.0
-Bubba Watson,6.0
 Alex Noren,6.0
 Robert MacIntyre,7.0
 Andrew Novak,7.0
@@ -79,15 +79,15 @@ Vijay Singh,9.0
 Mason Howell (a),9.0
 Mike Weir,10.0
 Carlos Ortiz,10.0
-Johnny Keefer,10.0
 Sami Välimäki,10.0
 Max Greyserman,10.0
-Nico Echavarria,10.0
 Fifa Laopakdee (a),11.0
 Min Woo Lee,11.0
+Johnny Keefer,11.0
+Nico Echavarria,11.0
 Naoyuki Kataoka,14.0
+Aldrich Potgieter,14.0
 Ángel Cabrera,14.0
 Mateo Pulcini (a),15.0
-Aldrich Potgieter,15.0
 Brandon Holtz (a),16.0
 Davis Riley,18.0

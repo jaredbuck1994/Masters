@@ -1,9 +1,9 @@
 Player,Score
-Sam Burns,-5.0
 Rory McIlroy,-5.0
 Wyndham Clark,-4.0
+Tyrrell Hatton,-4.0
 Justin Rose,-4.0
-Tyrrell Hatton,-3.0
+Sam Burns,-4.0
 Brooks Koepka,-3.0
 Shane Lowry,-3.0
 Jason Day,-3.0
@@ -17,6 +17,7 @@ Xander Schauffele,-2.0
 Max Homa,-1.0
 Tommy Fleetwood,-1.0
 Brian Campbell,0.0
+Michael Brennan,0.0
 Jordan Spieth,0.0
 Harris English,0.0
 Haotong Li,0.0
@@ -25,9 +26,7 @@ Dustin Johnson,0.0
 Akshay Bhatia,0.0
 Sungjae Im,1.0
 Aaron Rai,1.0
-Sergio García,1.0
 Jacob Bridgeman,1.0
-Michael Brennan,1.0
 Ludvig Åberg,1.0
 Sepp Straka,1.0
 Justin Thomas,1.0
@@ -45,6 +44,7 @@ Corey Conners,2.0
 Marco Penge,2.0
 Matt Fitzpatrick,2.0
 Collin Morikawa,2.0
+Sergio García,3.0
 Harry Hall,3.0
 Maverick McNealy,3.0
 Viktor Hovland,3.0
@@ -52,11 +52,11 @@ Brian Harman,4.0
 Si Woo Kim,4.0
 Jackson Herrington (a),4.0
 Charl Schwartzel,4.0
-Cameron Smith,4.0
 Projected Cut +4,
 Danny Willett,5.0
 Jon Rahm,5.0
 Rasmus Højgaard,5.0
+Cameron Smith,5.0
 Bryson DeChambeau,5.0
 Mason Howell (a),5.0
 Alex Noren,5.0
@@ -78,8 +78,8 @@ José María Olazábal,8.0
 Vijay Singh,8.0
 Brandon Holtz (a),8.0
 Fred Couples,9.0
-Johnny Keefer,9.0
 Carlos Ortiz,9.0
+Johnny Keefer,9.0
 Ángel Cabrera,9.0
 Nico Echavarria,9.0
 Mike Weir,10.0
@@ -88,6 +88,6 @@ Sami Välimäki,10.0
 Max Greyserman,10.0
 Fifa Laopakdee (a),11.0
 Min Woo Lee,11.0
-Naoyuki Kataoka,12.0
+Naoyuki Kataoka,11.0
 Mateo Pulcini (a),15.0
 Davis Riley,18.0
